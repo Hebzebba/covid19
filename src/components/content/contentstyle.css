@@ -1,0 +1,9 @@
+.infected {
+  color: rgb(153, 240, 13);
+}
+.death {
+  color: red;
+}
+.recovered {
+  color: blue;
+}
